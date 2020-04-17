@@ -1,6 +1,4 @@
-//
-// Created by netanel on 08/04/2020.
-//
+
 
 #pragma once
 
